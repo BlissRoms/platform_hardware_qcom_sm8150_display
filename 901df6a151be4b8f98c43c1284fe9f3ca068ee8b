@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5fd44de_7109a112",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000006
+      },
+      "writtenOn": "2023-04-20T07:36:21Z",
+      "side": 1,
+      "message": "My builds only build out with this fix and works fine on my builds. I don\u0027t fully know if there is other sm8150 based devices on our official list that need this tested to ensure no breakage on their end.",
+      "revId": "901df6a151be4b8f98c43c1284fe9f3ca068ee8b",
+      "serverId": "b7386340-edb3-408c-9cac-98e148952b30"
+    }
+  ]
+}
